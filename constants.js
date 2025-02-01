@@ -4,11 +4,10 @@ export const METADATA = {
   description:
     "Rushikesh Surywanshi is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
   
-
   keywords: [
     "Rushikesh Surywanhsi",
     "Frontend Engineer",
-    "React Native Developer",
+    "Data Analyst",
     "Software Engineer",
     "Portfolio",
     "Devfolio",
@@ -44,7 +43,7 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
-  "A pragmatic Frontend Developer",
+  "A pragmatic Web Developer",
   "I build things for the web",
   "I create aesthetic and modern apps",
 ];
@@ -66,7 +65,6 @@ export const SOCIAL_LINKS = [
     name: "instagram",
     url: "https://www.instagram.com/thenameisrushi07/",
   },
- 
 ];
 
 export const SKILLS = {
@@ -107,7 +105,16 @@ export const PROJECTS = [
     tech: ["react", "nextjs", "tailwindcss", "mapbox"],
   },
   {
-    name: " Currency Converter",
+    name: "Full Stack E-Commerce Website",
+    image: "/projects/ec.webp",
+    blurImage: "/projects/blur/ec.webp",
+    description: "Developed a full-stack e-commerce platform using the MERN stack, featuring user authentication, product management, and secure payments via Stripe.",
+    gradient: ["#0F2027", "#203A43"],
+    url: "https://mern-e-commerce-website-7eht.vercel.app/",
+    tech: ["mongodb", "react","nextjs", "tailwindcss" ],
+  },
+  {
+    name: "Currency Converter",
     image: "/projects/currency.webp",
     blurImage: "/projects/blur/medium-blur.webp",
     description: "Designed and implemented a currency conversion tool that allows users to convert between different currencies in real-time. ✍🏻",
@@ -126,15 +133,25 @@ export const PROJECTS = [
     tech: ["react"],
   },
   {
-    name: " Weather App",
-    image: "/projects/weather.png",
-    blurImage: "/projects/blur/weather.png",
+    name: "Weather App",
+    image: "/projects/weather.webp",
+    blurImage: "/projects/blur/weather.webp",
     description: "Developed a responsive weather application that allows users to search for current weather conditions by city.🏎️",
     gradient: ["#142D46", "#2E4964"],
     url: "https://rushikeshsurywanshi.github.io/WeatherApp/",
     tech: ["react"],
   },
+  {
+    name: "Full Stack E-Commerce Website",
+    image: "/projects/ec.webp",
+    blurImage: "/projects/blur/ec.webp",
+    description: "Developed a full-stack e-commerce platform using the MERN stack, featuring user authentication, product management, and secure payments via Stripe.",
+    gradient: ["#0F2027", "#203A43"],
+    url: "https://mern-e-commerce-website-7eht.vercel.app/",
+    tech: ["mongodb", "react","nextjs", "tailwindcss" ],
+  },
 ];
+
 
 // export const WORK = [
 //   {
