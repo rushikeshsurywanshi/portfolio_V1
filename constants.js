@@ -103,7 +103,7 @@ export const PROJECTS = [
     blurImage: "/projects/blur/airbnb-blur.webp",
     description: "Created an AI clone with advanced features and capabilities, simulating a conversational AI experience",
     gradient: ["#F14658", "#DC2537"],
-    url: "https://rushikeshsurywanshi.github.io/Gemini_AI/",
+    url: "https://rushikeshsurywanshi.github.io/Astra_AI/",
     tech: ["react", "nextjs", "tailwindcss", "mapbox"],
   },
   {
